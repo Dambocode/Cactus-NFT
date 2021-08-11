@@ -1,0 +1,53 @@
+{
+    "Open Sea API Key": "8c9e60a4e0c74ede901adc96fdccc370",
+    "Collections": [
+        {
+            "Collection Address": "0xf3E6DbBE461C6fa492CeA7Cb1f5C5eA660EB1B47",
+            "Webhook": "https://discord.com/api/webhooks/872084354854174771/j-M4DExDCII2AadCgwhze41CWOUQYkgwGCUNJvqfa1SXzmXkQ0ruzlPn58KACB1V4Yap"
+        },
+        {
+            "Collection Address": "0x3EAcf2D8ce91b35c048C6Ac6Ec36341aaE002FB9",
+            "Webhook": "https://discord.com/api/webhooks/872084538120105994/cy23-pAnwjW1CNpXpKyMQvnwhSAp309I5KQ8rB9PCJ1kZmz-6-ClJOuXIFGbi5LRFnk-"
+        },
+        {
+            "Collection Address": "0x71B11Ac923C967CD5998F23F6dae0d779A6ac8Af",
+            "Webhook": "https://discord.com/api/webhooks/872084842521718844/gYtoWNxMKFhz65F82QgabWjXiX-pgS6OFeyl1zPGEqsDNxavBFtEDqiopu9jp_fOSkCH"
+        },
+        {
+            "Collection Address": "0x14f03368B43E3a3D27d45F84FabD61Cc07EA5da3",
+            "Webhook": "https://discord.com/api/webhooks/872085238719873116/t36Pl9RLmtwh8tV3wmc-rM_vpRX7PPzNJuTTAOs_rocjhIeL6b1YYR-7vk6r0dPdnGha"
+        },
+        {
+            "Collection Address": "0x6fC355D4e0EE44b292E50878F49798ff755A5bbC",
+            "Webhook": "https://discord.com/api/webhooks/872085396803166289/JmPy_kDJl0fqKqso3foXwqbQYz1o7LR1D9_EbVqqw82FmyDV3tjWTEjIKcWSERbgyhwx"
+        },
+        {
+            "Collection Address": "0x00C396383400a1EF2eB401052dBF5d989B2da481",
+            "Webhook": "https://discord.com/api/webhooks/872085888895696916/Ln39x7iB_O6SJVJtZr2JcvQ0P6kWAcMuu7eIcL3g_5qVwlORJJFZuUjpjXuTO4Q2fvsz"
+        },
+        {
+            "Collection Address": "0xA914Ac9eDa58c6Ecd2E9C525555D49675DA5d6a7",
+            "Webhook": "https://discord.com/api/webhooks/872085931648245801/Q99ywjChwS3GoEkePiaxw0KabhWB2G97WZtnSamynMPCeaXsT3_6oLhkmrudYCyfLiJp"
+        },
+        {
+            "Collection Address": "0x85f740958906b317de6ed79663012859067E745B",
+            "Webhook": "https://discord.com/api/webhooks/872085977936576522/AXcF0l2HHbfcYrFD_6l5QEPYR9SO2BjaN7M-c4-JvobCfIa-VQIfDfLbu-1QkYx-EcTT"
+        },
+        {
+            "Collection Address": "0x8d04a8c79cEB0889Bdd12acdF3Fa9D207eD3Ff63",
+            "Webhook": "https://discord.com/api/webhooks/872086114347913237/zVArHCw16re4qw3N2NYtdJoK5MFvem7hYhlhcTRPufE3N6UOAY0e333dCQF1xcJdUWH7"
+        },
+        {
+            "Collection Address": "0x18Df6C571F6fE9283B87f910E41dc5c8b77b7da5",
+            "Webhook": "https://discord.com/api/webhooks/872086288516390973/HwOV0_1VDaZ6vDvDAjqXNUgHh2SoYLH2ToZ2xdYK9w8yu0bZBtStVgnnlc0rTrBhr5pf"
+        },
+        {
+            "Collection Address": "0x76be3b62873462d2142405439777e971754e8e77",
+            "Webhook": "https://discord.com/api/webhooks/872100907213545472/rGUZY3fLr5MDYrqkUiQRhfUQwsVmeBhboWzwoWKp4MRWWUbnlkeT2fgFGoHLYwxsZU9j"
+        },
+        {
+            "Collection Address": "0x7AfEdA4c714e1C0A2a1248332c100924506aC8e6",
+            "Webhook": "https://discord.com/api/webhooks/874373513115467796/YoTl_n-nlzWm_cR-iFyDg-OWpR8DrX4yO2JtNna6TglKVVC6gXgQU4ZIw6qADo9HkDcN"
+        }
+    ]
+}

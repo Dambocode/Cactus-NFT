@@ -1,0 +1,4 @@
+Flask==1.1.2
+requests==2.25.0
+DateTime==4.3
+web3==5.21.0

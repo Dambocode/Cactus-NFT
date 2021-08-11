@@ -1,0 +1,164 @@
+{
+    "asset_events": [
+        {
+            "approved_account": null,
+            "asset": {
+                "animation_original_url": null,
+                "animation_url": null,
+                "asset_contract": {
+                    "address": "0x3eacf2d8ce91b35c048c6ac6ec36341aae002fb9",
+                    "asset_contract_type": "non-fungible",
+                    "buyer_fee_basis_points": 0,
+                    "created_date": "2021-07-08T21:09:14.248985",
+                    "default_to_fiat": false,
+                    "description": "GOATz are a collection of 10,000 unique GOAT NFTs that are provably rare and increasingly scarce. They are ERC-721 Tokens and exist on the Ethereum blockchain. Owning a GOAT is not just about having a personalized avatar, it's also about gaining access to a vibrant, successful, and generous community. For more details please visit www.MaisonDeGoat.com.",
+                    "dev_buyer_fee_basis_points": 0,
+                    "dev_seller_fee_basis_points": 250,
+                    "external_link": "https://maisondegoat.com/",
+                    "image_url": "https://lh3.googleusercontent.com/PNhM3guU1avuFnI1r39kG8uzxCWV2SneyJ6YEk2VbyPju5rvCaerfICixQpVG0gi4Is4d8bnhVLIpgMg8k2ph43Z0MLYl4MefpD2qA=s120",
+                    "name": "GOATz",
+                    "nft_version": "3.0",
+                    "only_proxied_transfers": false,
+                    "opensea_buyer_fee_basis_points": 0,
+                    "opensea_seller_fee_basis_points": 250,
+                    "opensea_version": null,
+                    "owner": 53692069,
+                    "payout_address": "0x6401694dba7b91a105b0653ce167cf5527b80456",
+                    "schema_name": "ERC721",
+                    "seller_fee_basis_points": 500,
+                    "symbol": "GOATZ",
+                    "total_supply": "0"
+                },
+                "background_color": null,
+                "collection": {
+                    "banner_image_url": "https://lh3.googleusercontent.com/3kgsD02UNwRGAFWUloUXpVRSpws7evfXZgJibzKt4SWweHoxNV2_2Iztm1sOKRH6zqXxE8Da7vHjgrr8Mql_FHvk0Ldb4F0mUWsNvQ=s2500",
+                    "chat_url": null,
+                    "created_date": "2021-07-08T21:58:02.244433",
+                    "default_to_fiat": false,
+                    "description": "GOATz are a collection of 10,000 unique GOAT NFTs that are provably rare and increasingly scarce. They are ERC-721 Tokens and exist on the Ethereum blockchain. Owning a GOAT is not just about having a personalized avatar, it's also about gaining access to a vibrant, successful, and generous community. For more details please visit www.MaisonDeGoat.com.",
+                    "dev_buyer_fee_basis_points": "0",
+                    "dev_seller_fee_basis_points": "250",
+                    "discord_url": "https://discord.gg/3DTXH533wM",
+                    "display_data": {
+                        "card_display_style": "contain"
+                    },
+                    "external_url": "https://maisondegoat.com/",
+                    "featured": false,
+                    "featured_image_url": "https://lh3.googleusercontent.com/802UpeQ2xk0UP_9q7z_d2isXll01v0lU3jwJ37T27LTA2S-h5X6W5dDP85e1zdVq6OxAEAgw73Go5MJymsmeEHK6jlpD-SsFFXyJmw=s300",
+                    "hidden": false,
+                    "image_url": "https://lh3.googleusercontent.com/PNhM3guU1avuFnI1r39kG8uzxCWV2SneyJ6YEk2VbyPju5rvCaerfICixQpVG0gi4Is4d8bnhVLIpgMg8k2ph43Z0MLYl4MefpD2qA=s120",
+                    "instagram_username": null,
+                    "is_subject_to_whitelist": false,
+                    "large_image_url": "https://lh3.googleusercontent.com/802UpeQ2xk0UP_9q7z_d2isXll01v0lU3jwJ37T27LTA2S-h5X6W5dDP85e1zdVq6OxAEAgw73Go5MJymsmeEHK6jlpD-SsFFXyJmw=s300",
+                    "medium_username": null,
+                    "name": "GOATz",
+                    "only_proxied_transfers": false,
+                    "opensea_buyer_fee_basis_points": "0",
+                    "opensea_seller_fee_basis_points": "250",
+                    "payout_address": "0x6401694dba7b91a105b0653ce167cf5527b80456",
+                    "require_email": false,
+                    "safelist_request_status": "verified",
+                    "short_description": null,
+                    "slug": "maisondegoat",
+                    "telegram_url": null,
+                    "twitter_username": "MaisonDeGOAT",
+                    "wiki_url": null
+                },
+                "decimals": 0,
+                "description": null,
+                "external_link": null,
+                "id": 30843564,
+                "image_original_url": "https://ipfs.io/ipfs/QmdiRzcWqkFhGuDWwFfP8T3T5R72ZXJk2DvpF8aGskNGrg",
+                "image_preview_url": "https://lh3.googleusercontent.com/x5d5gCz1qOtoVGgRbAW5-xbVdInlMD5l5af7d4WImrf3NEhvo2Aq-0Srfxm6d3ffICuOAytaPHcg-FZAV73J5SoCQ_fuz1kaX702vw=s250",
+                "image_thumbnail_url": "https://lh3.googleusercontent.com/x5d5gCz1qOtoVGgRbAW5-xbVdInlMD5l5af7d4WImrf3NEhvo2Aq-0Srfxm6d3ffICuOAytaPHcg-FZAV73J5SoCQ_fuz1kaX702vw=s128",
+                "image_url": "https://lh3.googleusercontent.com/x5d5gCz1qOtoVGgRbAW5-xbVdInlMD5l5af7d4WImrf3NEhvo2Aq-0Srfxm6d3ffICuOAytaPHcg-FZAV73J5SoCQ_fuz1kaX702vw",
+                "name": null,
+                "num_sales": 1,
+                "owner": {
+                    "address": "0x3b8945bd8b540e4ef3aed45e8d050eda589cac5e",
+                    "config": "",
+                    "discord_id": "",
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/5.png",
+                    "user": {
+                        "username": null
+                    }
+                },
+                "permalink": "https://opensea.io/assets/0x3eacf2d8ce91b35c048c6ac6ec36341aae002fb9/1075",
+                "token_id": "1075",
+                "token_metadata": "https://goatz.mypinata.cloud/ipfs/QmUmJ25CAhPhExapS2fLgD6Qbr9fExyxUGtzzY7Nkwykai/2517"
+            },
+            "asset_bundle": null,
+            "auction_type": null,
+            "bid_amount": null,
+            "collection_slug": "maisondegoat",
+            "contract_address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "created_date": "2021-07-14T13:44:13.278833",
+            "custom_event_name": null,
+            "dev_fee_payment_event": null,
+            "duration": null,
+            "ending_price": null,
+            "event_type": "successful",
+            "from_account": null,
+            "id": 286765089,
+            "owner_account": null,
+            "payment_token": {
+                "address": "0x0000000000000000000000000000000000000000",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "id": 1,
+                "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+                "name": "Ether",
+                "symbol": "ETH",
+                "usd_price": "1992.769999999999982000"
+            },
+            "quantity": "1",
+            "seller": {
+                "address": "0xf218b8a95de4df783ba34c4eb783b843cc544f77",
+                "config": "",
+                "discord_id": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+                "user": {
+                    "username": "RealDonald"
+                }
+            },
+            "starting_price": null,
+            "to_account": null,
+            "total_price": "290000000000000000",
+            "transaction": {
+                "block_hash": "b'\\xbas\\x11|@\\x1c\\xc8\\xd6\\x83\\xc4\\x14\\xb3\\xda&A\\xdd<@\\x89\\x89\\x0fV1o\\xc5\\x1fs\\xdf\\xa7p\\xee:'",
+                "block_number": "12825448",
+                "from_account": {
+                    "address": "0x3b8945bd8b540e4ef3aed45e8d050eda589cac5e",
+                    "config": "",
+                    "discord_id": "",
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/5.png",
+                    "user": {
+                        "username": null
+                    }
+                },
+                "id": 136158211,
+                "timestamp": "2021-07-14T13:43:19",
+                "to_account": {
+                    "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+                    "config": "verified",
+                    "discord_id": "",
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+                    "user": {
+                        "username": "OpenSea-Orders"
+                    }
+                },
+                "transaction_hash": "0xe14d1d0dfcbe44c1b445c158ecd092b00634c9b14e495d90d78b36634c0f10c3",
+                "transaction_index": "274"
+            },
+            "winner_account": {
+                "address": "0x3b8945bd8b540e4ef3aed45e8d050eda589cac5e",
+                "config": "",
+                "discord_id": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/5.png",
+                "user": {
+                    "username": null
+                }
+            }
+        }
+    ]
+}
