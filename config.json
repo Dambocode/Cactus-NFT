@@ -48,6 +48,10 @@
         {
             "Collection Address": "0x7AfEdA4c714e1C0A2a1248332c100924506aC8e6",
             "Webhook": "https://discord.com/api/webhooks/874373513115467796/YoTl_n-nlzWm_cR-iFyDg-OWpR8DrX4yO2JtNna6TglKVVC6gXgQU4ZIw6qADo9HkDcN"
+        },
+        {
+            "Collection Address": "0xdDA32aabBBB6c44eFC567baC5F7C35f185338456",
+            "Webhook": "https://discord.com/api/webhooks/876495519957024848/T8sfVnosglZ1trqNyD3Kg0E7VDS0ZqXr2McopL38wmcrZlv8TsCnbh3SxVLR-FIKrVoG"
         }
     ]
 }
