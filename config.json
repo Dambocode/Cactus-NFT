@@ -4,6 +4,10 @@
         {
             "Collection Address": "0x07e5ce0f8fa46031a1dcc8cb2530f0a52019830d",
             "Webhook": "https://discord.com/api/webhooks/895465934452584499/Vx6mRu-bUfOqdLJveEbkgwqEf74Hlmm2aYiWcXrUE6USGgXGO3pJ520b51pkBiAhQ7P_"
+        },
+        {
+            "Collection Address": "0xeafa25e962ee875f75fdc97e152d39bb4c8978ae",
+            "Webhook": "https://discord.com/api/webhooks/895468013602635826/RBPSH6Ma6kpam2SjX5HmgkjZMvzR3UeSr-ze5G46ZVn1nIjR6CCvl5JDd7xOVC4Rx-Po"
         }
     ]
 }
