@@ -12,6 +12,18 @@
         {
             "Collection Address": "0x86357a19e5537a8fba9a004e555713bc943a66c0",
             "Webhook": "https://discord.com/api/webhooks/895469817358843925/kqzCS4McDnWSmxcuyWFzISafJ46iWIV_t_SYRzKjcMdIBEI-1J11FFH_uzh0dkxy3Rss"
+        },
+        {
+            "Collection Address": "0xa3b7cee4e082183e69a03fc03476f28b12c545a7",
+            "Webhook": "https://discord.com/api/webhooks/895671465230360586/pyNqvjOCTNbVegZlMsFcAc7Rl9UtbwmJtZsaYzxZ6Bi6wcA1t4wf4HhyH7czjL-KjFF7"
+        },
+        {
+            "Collection Address": "0xbd4455da5929d5639ee098abfaa3241e9ae111af",
+            "Webhook": "https://discord.com/api/webhooks/895671961429114952/G6iCZL8Pyj384MaweZlt4j4070J8NszcQ1NYJ7h7dOCCVRdHFd-_mYTnpjQ8oxtUR_L8"
+        },
+        {
+            "Collection Address": "0xb1469271ff094d7fb2710b0a69a80a01ec5dbf24",
+            "Webhook": "https://discord.com/api/webhooks/895672210319085638/xCWMlJgZI0wMYNFLf739aBD2mjwNAf0bNxLsbv3UtXHopkzJ2DoeAaN9SEzmHe6XgaFK"
         }
     ]
 }
